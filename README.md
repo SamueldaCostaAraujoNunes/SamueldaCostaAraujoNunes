@@ -12,7 +12,7 @@
 -🎺 Amo escutar e tocar blues, jazz e rock dos anos 70~80.
 
 ### Spotify Playing 🎧
-[<img src="https://spotify-now-playing.samueldacostaaraujonunes.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="400" />](https://spotify-now-playing.samueldacostaaraujonunes.vercel.app/api/spotify-playing)
+[<img src="https://spotify-now-playing.samueldacostaaraujonunes.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="400" />](https://open.spotify.com/user/ed8ce1a47579472db2cc5baa1c252036)
 
 ### Connect with me:
 
@@ -45,6 +45,8 @@
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=SamueldaCostaAraujoNunes&count_private=true&show_icons=true&theme=radical" />
 
 </details>
+
+<br />
 
 <details>
   <summary>:zap: Most Used Languages</summary>
