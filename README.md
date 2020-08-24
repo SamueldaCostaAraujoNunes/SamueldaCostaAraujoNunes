@@ -12,7 +12,7 @@
 -🎺 Amo escutar e tocar blues, jazz e rock dos anos 70~80.
 
 ### Spotify Playing 🎧
-[<img src="spotify-now-playing.samueldacostaaraujonunes.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="400" />](spotify-now-playing.samueldacostaaraujonunes.vercel.app/api/spotify-playing)
+[<img src="https://spotify-now-playing.samueldacostaaraujonunes.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="400" />](https://spotify-now-playing.samueldacostaaraujonunes.vercel.app/api/spotify-playing)
 
 ### Connect with me:
 
