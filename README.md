@@ -20,6 +20,7 @@
 [<img align="left" alt="Facebook" width="40px" src="https://image.flaticon.com/icons/svg/187/187189.svg" />][facebook]
 [<img align="left" alt="LinkedIn" width="40px" src="https://image.flaticon.com/icons/svg/187/187185.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="40px" src="https://image.flaticon.com/icons/svg/187/187207.svg" />][instagram]
+[<img align="left" alt="Lattes" width="40px" src="https://static.wixstatic.com/media/478424_81030f216eab45fe8a64d12a964eea14~mv2.gif" />][instagram]
 
 <br />
 
