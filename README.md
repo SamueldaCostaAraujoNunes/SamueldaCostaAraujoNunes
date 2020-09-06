@@ -17,9 +17,9 @@
 ### Connect with me:
 
 [<img align="left" alt="YouTube" width="22px" src="https://image.flaticon.com/icons/svg/1384/1384060.svg" />][youtube]
-[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Facebook" width="22px" src="https://image.flaticon.com/icons/svg/145/145802.svg" />][facebook]
+[<img align="left" alt="LinkedIn" width="22px" src="https://image.flaticon.com/icons/svg/179/179330.svg" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="https://image.flaticon.com/icons/svg/1384/1384063.svg" />][instagram]
 
 <br />
 
