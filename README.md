@@ -60,4 +60,4 @@
 [youtube]: https://www.youtube.com/channel/UChKTMykd8-xXc5BcrY_Wbsg/featured
 [instagram]: https://www.instagram.com/samuelnunes22/?igshid=17zej5uhbeat0
 [linkedin]: https://www.linkedin.com/in/samuel-nunes-a889541ab
-[lattes]: https://wwws.cnpq.br/cvlattesweb/PKG_MENU.menu?f_cod=DD4BDF9698B8428C2A4A62D85B218761#
+[lattes]: http://lattes.cnpq.br/9312896627406838
