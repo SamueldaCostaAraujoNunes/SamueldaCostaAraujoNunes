@@ -20,7 +20,7 @@
 [<img align="left" alt="Facebook" width="40px" src="https://image.flaticon.com/icons/svg/187/187189.svg" />][facebook]
 [<img align="left" alt="LinkedIn" width="40px" src="https://image.flaticon.com/icons/svg/187/187185.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="40px" src="https://image.flaticon.com/icons/svg/187/187207.svg" />][instagram]
-[<img align="left" alt="Lattes" width="40px" src="https://static.wixstatic.com/media/478424_81030f216eab45fe8a64d12a964eea14~mv2.gif" />][instagram]
+[<img align="left" alt="Lattes" width="40px" src="https://static.wixstatic.com/media/478424_81030f216eab45fe8a64d12a964eea14~mv2.gif" />][lattes]
 
 <br />
 
@@ -60,3 +60,4 @@
 [youtube]: https://www.youtube.com/channel/UChKTMykd8-xXc5BcrY_Wbsg/featured
 [instagram]: https://www.instagram.com/samuelnunes22/?igshid=17zej5uhbeat0
 [linkedin]: https://www.linkedin.com/in/samuel-nunes-a889541ab
+[lattes]: https://wwws.cnpq.br/cvlattesweb/PKG_MENU.menu?f_cod=DD4BDF9698B8428C2A4A62D85B218761#
