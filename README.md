@@ -1,5 +1,6 @@
 ### E ai galera, meu nome é Samuel 👋
 
+![](https://komarev.com/ghpvc/?username=SamueldaCostaAraujoNunes&style=flat-square&color=FD428E&label=Visualizações+de+perfil)
 
 ## Um pouco sobre mim!
 
