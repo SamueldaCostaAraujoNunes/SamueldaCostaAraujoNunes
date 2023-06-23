@@ -1,18 +1,16 @@
-### E ai galera, meu nome é Samuel 👋
+### Samuel Nunes - Engenheiro de Computação
+Olá, seja bem-vindo ao meu perfil do GitHub! 👋 Sou o Samuel, um estudante de Engenharia de Computação pela UEFS (Universidade Estadual de Feira de Santana). Estou sempre buscando me atualizar com as tecnologias mais recentes e tenho interesse especial no ramo da Internet das Coisas (IoT). Adoro desenvolver projetos de domótica utilizando plataformas como Arduino, ESP8266 e Raspberry Pi.
 
-![](https://komarev.com/ghpvc/?username=SamueldaCostaAraujoNunes&style=flat-square&color=FD428E&label=Visualizações+de+perfil)
+## Sobre mim
+🎓 Atualmente, estou me formando em Engenharia de Computação na UEFS.
+🌱 Estou sempre buscando aprender e me atualizar com as tecnologias mais recentes.
+💡 Tenho experiência em projetos de domótica e desenvolvimento de sistemas embarcados.
+🎵 Sou apaixonado por blues, jazz e rock dos anos 70 e 80. Também adoro tocar instrumentos musicais.
 
-## Um pouco sobre mim!
+## Spotify - O que estou ouvindo 🎧
+<img src="https://spotify-now-playing.samueldacostaaraujonunes.vercel.app/api/spotify-playing" alt="Spotify - O que estou ouvindo" width="400" />
 
--📚 Atualmente, estou me formando em Engenharia de Computação, pela UEFS (Universidade Estadual de Feira de Santana).
+Entre em contato
+Se quiser saber mais sobre mim ou discutir projetos interessantes, sinta-se à vontade para entrar em contato. Você pode me encontrar no <a href="https://www.linkedin.com/in/samuel-nunes-a889541ab" target="_new">LinkedIn</a>.
 
--🎯 Estou sempre tentando, me atualizar com as tecnologias mais recentes.
-
--💡 Gosto muito do ramo da IOT, tenho vários projetos de domótica, usando arduino, esp8266 e raspberry.
-
--🎺 Amo escutar e tocar blues, jazz e rock dos anos 70~80.
-
-### Spotify Playing 🎧
-[<img src="https://spotify-now-playing.samueldacostaaraujonunes.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="400" />](https://open.spotify.com/user/ed8ce1a47579472db2cc5baa1c252036)
-
-[linkedin]: https://www.linkedin.com/in/samuel-nunes-a889541ab
+Espero que goste do meu perfil! 😄
